@@ -2,7 +2,7 @@
 
 
 ### 1. Introduction
-A 2D tile-based world generation using Java with a feature that only displays tiles on the screen that are within the line of sight of the avatar.
+A 2D tile-based world generation using Java with a feature that only displays tiles on the screen that are within the line of sight of the avatar. Please email me to view the code.
 
 ### 2. Class Project Site
 https://sp24.datastructur.es/projects/proj3/
@@ -39,5 +39,3 @@ Users can press 'T' to increase the line of sight and view the entire world whic
 <img width="400" alt="Screenshot 2024-05-21 at 6 12 58 PM" src="https://github.com/nehaahussain/myworld/assets/67764423/de7ce615-436b-452c-9122-2ea6db8e831c">
 <img width="400" alt="Screenshot 2024-05-21 at 6 14 12 PM" src="https://github.com/nehaahussain/myworld/assets/67764423/c9d35482-cfa7-4d24-b7a2-351d98fb2312">
 <img width="400" alt="Screenshot 2024-05-21 at 6 14 49 PM" src="https://github.com/nehaahussain/myworld/assets/67764423/b8dae9b2-29fc-476e-bb51-386cb21e147e">
-
-
