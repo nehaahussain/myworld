@@ -1,5 +1,4 @@
-# myworld
-### Game World Generation
+## Game World Generation
 
 
 ### 1. Introduction
